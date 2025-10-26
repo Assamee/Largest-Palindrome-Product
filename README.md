@@ -1,6 +1,7 @@
 # Largest-Palindrome-Product
 
 A Python solution for Project Euler Problem 4: "Find the largest palindrome made from the product of two 3-digit numbers."
+
 This was a fun, personal challenge to practise algorithmic thinking in Python.
 
 ## About the Code:
