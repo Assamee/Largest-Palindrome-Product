@@ -24,8 +24,3 @@ The inner loop starts from the current value of the outer loop index (`j = i`).
 * **Complexity:** improved significantly over standard $O(N^2)$ via aggressive pruning.
 * **Outcome:** Delivers the correct solution with minimal latency compared to a full exhaustive search.
 
-## 💻 Usage
-Run the script directly from the terminal:
-
-```bash
-python3 solution.py
